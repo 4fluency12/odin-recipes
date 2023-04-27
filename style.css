@@ -3,5 +3,40 @@ div {
  font-size: 32px;
  color: white;
  text-align: center;
- font-style: bold;
+ font-weight: bold;
+}
+
+.odd {
+ background-color: pink;
+ font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.second {
+ color: blue;
+ font-size: 36px;
+}
+
+.third {
+ font-size: 24px
+}
+
+.fourth {
+ background-color: green;
+ font-size: 24;
+ font-weight: bold;
+}
+
+.click {
+ background-color: black;
+ color: white;
+}
+
+.no-click {
+ background-color: yellow;
+ color: black;
+}
+
+button {
+ font-size: 28px;
+ font-family: Helvetica, 'Times New Roman', sans-serif;
 }
